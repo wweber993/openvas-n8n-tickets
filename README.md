@@ -1,4 +1,4 @@
-# 🔐 Gestão de Vulnerabilidades com Open Source (Lab)
+# 🔐 Gestão de Vulnerabilidades com Open Source
 
 Este projeto demonstra como montar um **pipeline de gestão de vulnerabilidades** utilizando **ferramentas open source**, com foco em acessibilidade para pequenas e médias empresas (PMEs).
 
